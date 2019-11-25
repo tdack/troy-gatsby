@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://troy.dack.com.au",
-    "contentApiKey": "6095c72db16b8d8dcb2b3b0778"
+    "apiUrl": "https://twophat.dack.com.au",
+    "contentApiKey": "9e6a04fa419a88904c57054c4f"
   },
   "production": {
-    "apiUrl": "https://troy.dack.com.au",
-    "contentApiKey": "6095c72db16b8d8dcb2b3b0778"
+    "apiUrl": "https://twophat.dack.com.au",
+    "contentApiKey": "9e6a04fa419a88904c57054c4f"
   }
 }
